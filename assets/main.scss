@@ -12,3 +12,14 @@ pre.lineno, td.rouge-gutter {
 td.rouge-code {
     padding-left: 0;
 }
+
+.highlighter-rouge .highlight {
+  background-color: $white;
+  border-color: $white;
+}
+
+.rouge-table, .rouge-code, .rouge-gutter {
+  border-color: $white;
+}
+
+
