@@ -3,3 +3,12 @@
 ---
 
 @import "minima";
+
+pre.lineno, td.rouge-gutter {
+    width: 25px;
+    padding-right: 0;
+}
+
+td.rouge-code {
+    padding-left: 0;
+}
