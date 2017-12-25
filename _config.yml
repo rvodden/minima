@@ -30,8 +30,6 @@ kramdown:
             line_numbers: true
             start_line: 1
 
-disqus:
-  shortname: garbagecollection
 
 theme: minima
 exclude:
